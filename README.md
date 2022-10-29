@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). Cretate with tailwind, daisyui & typescript 
+
+Sample page fetching my medium feed rss to json, by creatig custom hooks 
+<img width="1439" alt="Screenshot 2022-10-29 at 12 25 13" src="https://user-images.githubusercontent.com/43211197/198815505-41c1f50c-2381-490b-89cc-dd3de2d1d243.png">
+
 
 ## Getting Started
 
